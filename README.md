@@ -40,8 +40,8 @@ This was built for an interview assignment with the following evaluation criteri
 
 1. **Clone the repo:**
 ```bash
-git clone https://github.com/your-username/avatar-tts-app
-cd avatar-tts-app
+git clone https://github.com/your-username/avatar-tts-
+cd avatar-tts-
 ```
 
 2. **Create virtual environment & install dependencies:**
