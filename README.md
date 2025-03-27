@@ -76,13 +76,6 @@ python main.py
 
 ---
 
-## 📸 Sample Output
-A synthetic video where Rachel's voice is animated with synchronized lip movement:
-
-[![Watch on D-ID](https://img.shields.io/badge/Click%20to%20Preview-Video-blue)](https://your-video-link.com)
-
----
-
 ## 🤝 Credits
 - [ElevenLabs](https://www.elevenlabs.io/)
 - [D-ID](https://www.d-id.com/)
