@@ -91,4 +91,4 @@ Feel free to reach out for collaborations or feedback!
 ---
 
 ## 📄 License
-MIT License (if open-sourced)
+MIT License
