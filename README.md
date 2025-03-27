@@ -1,4 +1,4 @@
-#Avatar TTS App
+# Avatar TTS App
 
 A simplified Python application that integrates a pre-trained Text-to-Speech (TTS) model with facial animation to generate talking avatar videos using text input.
 
