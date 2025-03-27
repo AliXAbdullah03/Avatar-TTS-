@@ -1,10 +1,10 @@
-# Avatar TTS App
+# Avatar TTS
 
 A simplified Python application that integrates a pre-trained Text-to-Speech (TTS) model with facial animation to generate talking avatar videos using text input.
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Generate synthetic voice using ElevenLabs (pre-trained TTS)
 - ✅ Upload generated audio to D-ID
@@ -15,7 +15,7 @@ A simplified Python application that integrates a pre-trained Text-to-Speech (TT
 
 ---
 
-## 🎯 Objective
+## Objective
 
 > Develop a simplified version where a synthetic voice is synchronized with basic facial animations using a simple avatar and text input only.
 
@@ -26,7 +26,7 @@ This was built for an interview assignment with the following evaluation criteri
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Python 3.11+
 - [ElevenLabs API](https://www.elevenlabs.io/) (TTS)
@@ -36,7 +36,7 @@ This was built for an interview assignment with the following evaluation criteri
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 1. **Clone the repo:**
 ```bash
@@ -60,13 +60,13 @@ Update `tts.py` and `d_id_api.py` with your ElevenLabs and D-ID API credentials.
 python main.py
 ```
 ---
-## 🧠 Methodology
+## Methodology
 
 This application takes user text input, generates speech using ElevenLabs (TTS), then synchronizes it with a simple avatar using D-ID's API to produce a talking head video. The generated voice is also transcribed back using Google STT to demonstrate accuracy.
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```
 📁 avatar-tts-app
@@ -80,26 +80,26 @@ This application takes user text input, generates speech using ElevenLabs (TTS),
 
 ---
 
-## 📸 Sample Output
+## Sample Output
 A synthetic video where Rachel's voice is animated with synchronized lip movement:
 
-🎬 [Click to Watch Live Demo](https://d-id-talks-prod.s3.us-west-2.amazonaws.com/google-oauth2%7C113780342164315009464/tlk_EJ2-wYsHGX1Olq5CXNEBo/1743084117336.mp4?AWSAccessKeyId=AKIA5CUMPJBIK65W6FGA&Expires=1743170538&Signature=IkM4B0Rc1kh%2BKzD9F%2Bk15Movc40%3D)
+[Click to Watch Live Demo](https://d-id-talks-prod.s3.us-west-2.amazonaws.com/google-oauth2%7C113780342164315009464/tlk_EJ2-wYsHGX1Olq5CXNEBo/1743084117336.mp4?AWSAccessKeyId=AKIA5CUMPJBIK65W6FGA&Expires=1743170538&Signature=IkM4B0Rc1kh%2BKzD9F%2Bk15Movc40%3D)
 
 ---
 
-## 🤝 Credits
+## Credits
 - [ElevenLabs](https://www.elevenlabs.io/)
 - [D-ID](https://www.d-id.com/)
 - Inspiration: Real-time avatar speech systems & mock interview assignment
 
 ---
 
-## 📬 Contact
+## Contact
 Built by **Ali Abdullah** — `ali.abdullah.222003@gmail.com`
 
 Feel free to reach out for collaborations or feedback!
 
 ---
 
-## 📄 License
-MIT License (if open-sourced)
+## License
+MIT License
