@@ -79,7 +79,7 @@ python main.py
 ## 📸 Sample Output
 A synthetic video where Rachel's voice is animated with synchronized lip movement:
 
-[![Watch on D-ID]([https://img.shields.io/badge/Click%20to%20Preview-Video-blue)](https://your-video-link.com](https://d-id-talks-prod.s3.us-west-2.amazonaws.com/google-oauth2%7C113780342164315009464/tlk_EJ2-wYsHGX1Olq5CXNEBo/1743084117336.mp4?AWSAccessKeyId=AKIA5CUMPJBIK65W6FGA&Expires=1743170538&Signature=IkM4B0Rc1kh%2BKzD9F%2Bk15Movc40%3D)
+https://img.shields.io/badge/Click%20to%20Preview-Video-blue)](https://your-video-link.com](https://d-id-talks-prod.s3.us-west-2.amazonaws.com/google-oauth2%7C113780342164315009464/tlk_EJ2-wYsHGX1Olq5CXNEBo/1743084117336.mp4?AWSAccessKeyId=AKIA5CUMPJBIK65W6FGA&Expires=1743170538&Signature=IkM4B0Rc1kh%2BKzD9F%2Bk15Movc40%3D)
 
 ---
 ## 🧠 Methodology
