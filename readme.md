@@ -69,11 +69,9 @@ python main.py
 ├── history.json         # Logs previous sessions
 ├── README.md            
 
-📸 Sample Output
+## 🧠 Methodology
 
-A synthetic video where Rachel's voice is animated with synchronized lip movement:
-
-
+This application takes user text input, generates speech using ElevenLabs (TTS), then synchronizes it with a simple avatar using D-ID's API to produce a talking head video. The generated voice is also transcribed back using Google STT to demonstrate accuracy.
 
 * Credits
 
