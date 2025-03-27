@@ -59,7 +59,12 @@ Update `tts.py` and `d_id_api.py` with your ElevenLabs and D-ID API credentials.
 ```bash
 python main.py
 ```
+---
+## 🧠 Methodology
 
+This application takes user text input, generates speech using ElevenLabs (TTS), then synchronizes it with a simple avatar using D-ID's API to produce a talking head video. The generated voice is also transcribed back using Google STT to demonstrate accuracy.
+
+---
 ---
 
 ## 📂 File Structure
