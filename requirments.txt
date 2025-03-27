@@ -1,0 +1,6 @@
+requests
+pyaudio
+pydub
+SpeechRecognition
+elevenlabs
+python-dotenv
