@@ -74,12 +74,9 @@ avatar-tts-app
 ├── requirements.txt # Dependency list
 ```
 
----
+## 🧠 Methodology
 
-## Credits
-- [ElevenLabs](https://www.elevenlabs.io/)
-- [D-ID](https://www.d-id.com/)
-- Inspiration: Real-time avatar speech systems & mock interview assignment
+This application takes user text input, generates speech using ElevenLabs (TTS), then synchronizes it with a simple avatar using D-ID's API to produce a talking head video. The generated voice is also transcribed back using Google STT to demonstrate accuracy.
 
 ---
 
